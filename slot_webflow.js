@@ -10,7 +10,7 @@ var ITEM_COUNT = 6; // item count in slots
 var SLOT_SPEED = 15; // how many pixels per second slots roll
 var DRAW_OFFSET = 45; // how much draw offset in slot display from top
 
-var BLURB_TBL = ["No win!", "Bravo!", "Odlično!", "JACKPOT!"];
+var BLURB_TBL = ["No win!", "Bravo!", "Odličnooooo!", "JACKPOT!"];
 
 var kpn = ["", "BTS3", "2BTS", "BTS1"];
 var value = ["", "25%", "20%", "15%"];
